@@ -1,0 +1,61 @@
+To-Do list:
+9-ok finir la liste des coût et effet des différents bâtiments et villages (villages -> ok)
+1-ok créer la base de données des bâtiments de villes et villages
+(Il reste à implémenter comment les effets seront gérés)
+8- définir toutes les unités et créer la base de données associée (listes et dégâts (+bdd associée) : ok)
+2-ok définir tous les décrets
+4- implémenter les villages (+ interface)
+2-ok implémenter l'affichage sur la carte (ville, villages, perso, etc.)
+2-ok implémenter l'interaction avec la carte (ville, villages, perso, etc.)
+3- finir le disign des interfaces
+3- implémenter les différentes interfaces des villes (même si certaines seront vides)
+2-ok implémenter le système de construction
+2-ok implémenter l'économie des villes (+ population des villes) (prévoir les ajouts futurs)
+2-ok implémenter l'économie générale (+ son interface (onglet taxe du widget de base))
+3-ok implémenter le système des ressources en fonction des cases
+3- impléménter la stabilité (et ce qui va avec) (Finir au fur et à mesure que les fonctionnalités importantes sont faites)
+9- définir les personnages (types, compétences, effets, etc.)
+6- implémenter tous les personnages (+ leur interface (Ville + personnage))
+4- implémenter les unités terrestres
+3- implémenter les armées (+ interface générale des armées)
+3- implémenter le recrutement (+ interface des cartiers de recrutement)
+3- implémenter les déplacements
+3- implémenter le système de combat
+4- implémenter les unités navales + leur système de combat
+9- définir tous les arbres de technologies
+5- implémenter la recheche (+ interface générale de la recherche et lier avec celle de l'unif)
+5- implémenter les décrets (+ son interface + interface supplémentaires dans le cv)
+4- implémenter la gestion du gouvernement (+ son interface) (+éritage et etc)
+2- implémenter les autres joueurs (sans l'IA) (attitude et etc.)
+4- implémenter la diplomatie (+ son interface)
+3- finir les credos (sur papier)
+9- implémenter les credos (+ les interfaces)
+5- implémenter les saisons et la météo
+9- définir tous les évents possible ainsi que les quêtes
+9- implémenter les évents (+ son interface) (TOUS les évents possible : rebélion, raid, météorite, famine, météo, etc)
+9- implémenter les quêtes (+ les interfaces)
+2- finir le systhème de tours
+3- implémenter la mini-map et les différentes vues
+4- première implémentation des IA (construction, recrutement, accepation ou non des pactes) (pas de lancement d'action)
+2- premier équilibrage
+2- implémentation des niveaux de difficulté
+2- créer la carte finale
+9- implémenter les Démons
+9- implémenter l'histoire du jeu (prophétie des Démons et etc.)
+2- implémenter les conditions de victoires (+ interfaces)
+4- implémenter le système de sauvegarde
+6- creer des IA performantes et adaptable (niveau de difficulté, style de jeu, etc.) (lancement d'actions complexes)
+5- faire les interface de lancement du jeu
+/- FIN DE L'ALPHA -> Début de le béta (test, équilibrage, amélioration, etc.)
+/- BÉTA
+/- faire de vrais graphismes...
+/- amélioration des perfs (système de chunck?)
+/- tests
+/- équilibrages
+/- recommencer les phases de tests et d'équilibrages jusqu'à avoir un jeu fonctionnel (dans l'ordre de l'implémentation des fonctionnalités)
+/- JEU JOUABLE
+/- EXTENTIONS
+/- Extention combats faisables (duréé estimée : 70 à 100)
+/- Extention jouer les démon (nouvelle carte + nouveau gameplay) (durée estimée : 100 à 150)
+
+total : 173
